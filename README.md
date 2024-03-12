@@ -21,15 +21,27 @@ Se busca realizar un carrito que pueda transportar un paquete dese un punto A ha
 El escenario de pruebas para el dispositivo debe ser un lugar cuyo espacio sea similar al de un apartamento o una oficina, donde se encuentren algunos obstáculos (sillas, mesas, zapatos, bolsos, etc) que el dispositivo pueda superar para poder entregarle al destinatario el paquete enviado por el remitente. Para que la necesidad que el dispositivo quiere cumplir tenga sentido, también se necesitan los usuarios (remitente y destinatario) y el objeto que se desea enviar. dicho objeto no debe pesar mas de un 1kg y debe ser compacto y sus dimensiones no deben superar los 15 cm^3.
 
 # costos 
-Transmisor wifi 1$2.000
+Transmisor wifi $12.000
+
 dispaly 7 segmentos x3 $4000
+
 3 botones $3000
+
 Circuito impreso para el control $15000
 
+
 Receptor wi fi $12000
+
 Raspberry pi pico $32000
+
 Base del auto con llantas $40000
+
 Sensor ultrasonido $8000
+
 Servo motor $10000
+
 4 motorreductores $40000
+
 Baterías del carrito $36000
+
+total $212000
